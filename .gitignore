@@ -1,0 +1,9 @@
+backend/src/main/resources/application.properties
+backend/src/main/resources/application-example.properties
+**/target/
+**/node_modules/
+**/dist/
+**/.idea/
+**/.env
+**/.env.*
+!.env.example
